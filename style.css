@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto' , sans-serif;
+}
+.signup{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+}
+h1{
+    text-align: right;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins',sans-serif ;
+    margin-top: -.14285714em;
+    font-size: 1.17142857rem;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, HelveticaNeue-Light, Ubuntu, Droid Sans, sans-serif, font-wso2, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.28571429em;
+    text-transform: none;
+    color: rgba(0, 0, 0, .87);
+}
+.signup-box{
+    width: 93px;
+    height: 40px;
+    background-color: #ff5000;
+    border: 2px solid;
+    color: #fff;
+    text-shadow: none;
+    background-image: none;
+    font-size: 1.14285714rem;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, HelveticaNeue-Light, Ubuntu, Droid Sans, sans-serif, font-wso2, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    line-height: 1em;
+    font-style: normal;
+    text-align: center;
+    box-shadow: 0 0 0 0 rgba(34,36,38,.15) inset;
+    outline: none;
+    border-radius: 6px;
+   
+}
+.img{
+    box-sizing: inherit;
+    transform-origin: 0px 0px;
+    image-orientation: center;
+    direction: rtl !important;
+    
+}
+.input-box{
+    position: relative;
+    width: 300px;
+    height: 340px;
+    border: 1px solid rgba(255,255,255,.5);
+    border-color: lightgray;
+    border-radius: 3px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .2);
+   
+}
+.input-box .icon{
+    position: absolute;
+    right: 8px;
+    font-size: 1.2em;
+    color: #162938;
+    line-height: 57px;
+}
